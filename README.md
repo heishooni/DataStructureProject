@@ -1,13 +1,13 @@
 # 뮤직 플레이 리스트 관리 시스템
 
 ## 음악 관리 정보
-- 음악 ID - musicID
-- 제목 - musicTitle
-- 가수 - singer
-- 앨범명 - albumTitle
-- 장르 - genre
-- 재생시간 - playTime
-- 즐겨찾기 여부 - favorite
+- 음악 ID
+- 제목
+- 가수
+- 앨범명
+- 장르
+- 재생시간
+- 즐겨찾기 여부
 
 ## 플레이리스트 관리 기능
 - 음악 추가
